@@ -1,0 +1,15 @@
+/Users/claramotondo/Desktop/repos/LINQ-Exercise/LINQ/bin/Debug/net6.0/LINQ
+/Users/claramotondo/Desktop/repos/LINQ-Exercise/LINQ/bin/Debug/net6.0/LINQ.deps.json
+/Users/claramotondo/Desktop/repos/LINQ-Exercise/LINQ/bin/Debug/net6.0/LINQ.runtimeconfig.json
+/Users/claramotondo/Desktop/repos/LINQ-Exercise/LINQ/bin/Debug/net6.0/LINQ.dll
+/Users/claramotondo/Desktop/repos/LINQ-Exercise/LINQ/bin/Debug/net6.0/LINQ.pdb
+/Users/claramotondo/Desktop/repos/LINQ-Exercise/LINQ/obj/Debug/net6.0/LINQ.csproj.AssemblyReference.cache
+/Users/claramotondo/Desktop/repos/LINQ-Exercise/LINQ/obj/Debug/net6.0/LINQ.GeneratedMSBuildEditorConfig.editorconfig
+/Users/claramotondo/Desktop/repos/LINQ-Exercise/LINQ/obj/Debug/net6.0/LINQ.AssemblyInfoInputs.cache
+/Users/claramotondo/Desktop/repos/LINQ-Exercise/LINQ/obj/Debug/net6.0/LINQ.AssemblyInfo.cs
+/Users/claramotondo/Desktop/repos/LINQ-Exercise/LINQ/obj/Debug/net6.0/LINQ.csproj.CoreCompileInputs.cache
+/Users/claramotondo/Desktop/repos/LINQ-Exercise/LINQ/obj/Debug/net6.0/LINQ.dll
+/Users/claramotondo/Desktop/repos/LINQ-Exercise/LINQ/obj/Debug/net6.0/refint/LINQ.dll
+/Users/claramotondo/Desktop/repos/LINQ-Exercise/LINQ/obj/Debug/net6.0/LINQ.pdb
+/Users/claramotondo/Desktop/repos/LINQ-Exercise/LINQ/obj/Debug/net6.0/LINQ.genruntimeconfig.cache
+/Users/claramotondo/Desktop/repos/LINQ-Exercise/LINQ/obj/Debug/net6.0/ref/LINQ.dll
